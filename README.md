@@ -2,10 +2,10 @@
 
  ## Installation
 
- \`\`\`bash
+ ```bash
  brew tap codoworks/tap
  brew install sshto
- \`\`\`
+ ```
 
  ## Available Formulas
 
@@ -15,7 +15,7 @@
 
  ## Updating
 
- \`\`\`bash
+ ```bash
  brew update
  brew upgrade sshto
- \`\`\`
+ ```
